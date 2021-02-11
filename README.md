@@ -8,3 +8,6 @@ importantly I am learning how to learn; such as where I can seek help and good r
 
 Deployed application:  https://eagle-ray.github.io/code_refactor_sdb/
 
+Screenshot of website:
+![](https://github.com/Eagle-Ray/code_refactor_sdb/blob/main/assets/images/Screen%20Shot%202021-02-10%20at%2011.40.54%20PM.png)
+
