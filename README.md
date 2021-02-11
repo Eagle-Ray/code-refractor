@@ -1,4 +1,4 @@
-# Code Refractor 
+# Code Refactor 
 
 Horieson's website needed improvements to its code base.  I have refactored the site to improve it's accessibility.
 
